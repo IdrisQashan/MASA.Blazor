@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">MASA Blazor</h1>
+<h1 align="center">MASA Blazor Library</h1>
 
 <div align="center">
 
